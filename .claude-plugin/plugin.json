@@ -1,0 +1,8 @@
+{
+  "name": "context-auto-handoff",
+  "version": "1.0.0",
+  "description": "context 用到門檻時寫交接卡、檢查合格後清空對話，由新對話接手；/handoff 手動交接，/handoff cancel 取消",
+  "author": { "name": "AmiTu1020" },
+  "homepage": "https://github.com/AmiTu1020/mods-context-auto-handoff-public",
+  "license": "MIT"
+}
